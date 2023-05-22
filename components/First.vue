@@ -11,7 +11,7 @@
                 <button class="text-[18px] w-[230px] hover:text-black hover:bg-white border-[#BA8D5B] border-2 duration-500 py-[15px] px-[48px] rounded-full text-white bg-[#BA8D5B] ">Kurslarni ko‘rish</button>
             </div>
             <div>
-                <img class="m-auto" style="height: 450px;" src="../img/guys.png"  alt="">
+                <img class="m-auto" style="height: 450px; width: 600px" src="../img/guys.png"  alt="">
             </div>
         </div>
     </div>

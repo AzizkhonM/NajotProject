@@ -5,5 +5,6 @@
         <Third />
         <Forth />
         <Fifth />
+        <Sixth />
     </div>
 </template>
